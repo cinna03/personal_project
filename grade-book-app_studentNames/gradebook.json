@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "email": "c.mwiza1",
+            "names": "cinna",
+            "courses_registered": [
+                "Physics"
+            ],
+            "GPA": 4.0
+        }
+    ],
+    "courses": [
+        {
+            "name": "Physics",
+            "trimester": "3",
+            "credits": 20
+        }
+    ]
+}
